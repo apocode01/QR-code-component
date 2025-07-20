@@ -5,3 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](images/preview.png)
+
+### Site URL
+
+[QR code component](https://apocode01-qr-code-component.netlify.app/)
